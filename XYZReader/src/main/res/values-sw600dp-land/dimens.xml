@@ -1,0 +1,5 @@
+<resources>
+    <!-- App/Toolbar -->
+    <dimen name="appbar_height">175dp</dimen>
+
+</resources>

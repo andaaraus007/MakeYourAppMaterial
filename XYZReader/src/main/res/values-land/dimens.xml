@@ -1,0 +1,9 @@
+<resources>
+    <!-- detail -->
+    <dimen name="detail_body_text_width">480dp</dimen>
+    <!-- App/Toolbar -->
+    <dimen name="appbar_height">125dp</dimen>
+    <dimen name="toolbar_elevation">8dp</dimen>
+    <dimen name="appbar_padding">16dp</dimen>
+
+</resources>
